@@ -1,0 +1,6 @@
+It's the morning now.  I've just woken up.  Let me tell you about my dream.
+I remember it vividly.  I had created a new web framework in python.  I called lub.
+It was like flask, except not exactly.  It worked with a cleaner, more obvious syntax, geared towards HTML.
+It also interacted more seemlessly with CSS.  This made it powerful.  I was insisting it be used at work.
+However, some people didn't like the idea.  I was working at the federal reserve, complaining about how old fashion 
+their web technologies were.  There were other things.  I believe there were moments in my dream I can't recall.
